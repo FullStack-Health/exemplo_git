@@ -1,4 +1,4 @@
 # exemplo_git
 repositório para fazer exemplos de git
 
-blalbalbal
+um repositório muito legal
